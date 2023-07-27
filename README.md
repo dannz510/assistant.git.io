@@ -1,16 +1,18 @@
 # PersonalAssistant  
 
-[![Made By](https://img.shields.io/badge/Made%20by-Roshan-blue.svg)](https://github.com/roshan9419) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/roshan9419) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/roshan9419) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/roshan9419) [![Stars](https://img.shields.io/github/stars/roshan9419/PersonalAssistantChatbot.svg?style=flat&color=orange)](https://github.com/roshan9419) [![Top Language](https://img.shields.io/github/languages/top/roshan9419/PersonalAssistantChatbot.svg?style=flat&color=informational)](https://github.com/roshan9419) [![Issues](https://img.shields.io/github/issues/roshan9419/PersonalAssistantChatbot.svg)](https://github.com/roshan9419) [![PR](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/roshan9419)
-<br>
+[![MadeBy][https://avatars.githubusercontent.com/u/117744712?s=400&u=0eecbc0b8bfd0d0229562332508746ee6c4a60fd&v=4](https://github.com/dannz510) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)
 
 *It is an Personal Assistant, capable to perform many tasks with some unique features, that you haven'e seen yet....*  
 
 ![alt text](thumbnail.jpg)
 
 
-#### Watch the demo here 👇👇👇
-https://www.youtube.com/watch?v=tbw7VyBGSw0  
+#### Link demo app here 👇👇👇
+https://drive.google.com/file/d/1hji2KZO2igJtb_k93O3Rn5YCJ7JZSo-b/view?usp=sharing 
 
+### SUPPORT WINDOWS 10 or HIGHER!
+
+## App location will locate in *C:\Program files* or *C:\Program files (x86)*
 
 ## Features / Tasks it can perform:  
 1. Game (eg, Rock Paper Scissor with GUI)  
@@ -229,7 +231,7 @@ python main.py
 - You're so funny  
 - Thank You  
 - I'm sorry  
-
+## And more... <You can file the command to ask assistant open **Small apps, games, and secret utilities from Window**>
 
 ## Common Installation Issues  
 ```
@@ -250,7 +252,7 @@ https://drive.google.com/file/d/1h-v6Ub5E2BMy6LTgl398lmoTlhr0KWvj/view?usp=shari
 
  **Dannz** 🧐 
 
-See also the list of [contributors](https://github.com/roshan9419/PersonalAssistantChatbot/graphs/contributors) who have participated in this project.
+See also the list of [contributors](https://github.com/dannz510/assistant.git.io) who have participated in this project.
 
 ## License
 
