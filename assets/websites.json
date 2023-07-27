@@ -1,0 +1,143 @@
+{
+	"google": [
+		"https://www.google.com/"
+	],
+	"gmail": [
+		"https://mail.google.com/mail/u/0/#inbox"
+	],
+	"myclass": [
+		"https://myclass.lpu.in/"
+	],
+	"lpulive": [
+		"https://lpulive.lpu.in/login"
+	],
+	"ums": [
+		"https://ums.lpu.in/lpuums/"
+	],
+	"github": [
+		"https://github.com/"
+	],
+	"youtube": [
+		"https://www.youtube.com/"
+	],
+	"sanfoundry":[
+		"https://www.sanfoundry.com/"
+	],
+	"hackerrank":[
+		"https://www.hackerrank.com/dashboard"
+	],
+	"hackerearth":[
+		"https://www.hackerearth.com/challenges/"
+	],
+	"codeforces": [
+		"https://codeforces.com/enter?back=%2Fproblemset"
+	],
+	"codechef":[
+		"https://www.codechef.com/"
+	],
+	"codecademy":[
+		"https://www.codecademy.com/catalog"
+	],
+	"leetcode":[
+		"https://leetcode.com/"
+	],
+	"udemy":[
+		"https://www.udemy.com/"
+	],
+	"edx":[
+		"https://www.edx.org/"
+	],
+	"coursera":[
+		"https://www.coursera.org/"
+	],
+	"w3resource":[
+		"https://www.w3resource.com/"
+	],
+	"w3schools":[
+		"https://www.w3schools.com/"
+	],
+	"geeksforgeeks":[
+		"https://www.geeksforgeeks.org/"
+	],
+	"stack overflow":[
+		"https://stackoverflow.com/"
+	],
+	"instagram": [
+		"https://www.instagram.com/?hl=en"
+	],
+	"facebook": [
+		"https://www.facebook.com/"
+	],
+	"linkedin": [
+		"https://www.linkedin.com/"
+	],
+	"twitter": [
+		"https://twitter.com/LOGIN"
+	],
+	"discord": [
+		"https://discord.com"
+	],
+	"docs": [
+		"https://docs.google.com/document/u/0/"
+	],
+	"slides": [
+		"https://docs.google.com/presentation/u/0/"
+	],
+	"sheets": [
+		"https://docs.google.com/spreadsheets/u/0/"
+	],
+	"chats": [
+		"https://mail.google.com/chat/u/0/"
+	],
+	"news": [
+		"https://news.google.com/home?hl=vi&gl=VN&ceid=VN:vi"
+	],
+	"microsofts": [
+		"https://www.microsoft.com"
+	],
+	"trans": [
+		"https://translate.google.com/"
+	],
+	"pinterest": [
+		"https://www.pinterest.com/"
+	],
+	"mswords": [
+		"https://www.office.com/launch/word?ui=vi-VN&rs=VN&auth=1"
+	],
+	"mspowerpoints": [
+		"https://www.office.com/launch/powerpoint?auth=1"
+	],
+	"msexcels": [
+		"https://www.office.com/launch/excel?ui=vi-VN&rs=VN&auth=1"
+	],
+	"skype": [
+		"https://web.skype.com/"
+	],
+	"deviantarts": [
+		"https://www.deviantart.com/"
+	],
+	"vidsaver": [
+		"https://en.savefrom.net/383/"
+		],
+	"texttosounds": [
+		"https://soundoftext.com/"
+	],
+	"spotify":[
+		"https://spotify.com"
+	],
+	"netflix":[
+		"https://netflix.com"
+	],
+	"user manual":[
+		"https://docs.google.com/document/d/1mWkPiuyki3vsv0U0WZYVlAdpSrzBatHIMBF6Gye-m1w/edit?usp=sharing"
+	],
+	"ms gaming":[
+		"https://www.msn.com/vi-vn/play?cgfrom=cg_shoreline_l1jumpbackin&ocid=cghubl1&form=MT0071&cvid=e8c0e4256c38414f8a3114b09c47d1be"
+	],
+	"ms start":[
+		"https://www.msn.com/vi-vn/feed?ocid=cghubl1"
+	],
+	"ms weather":[
+		"https://www.msn.com/vi-vn/weather/forecast"
+	]
+}
